@@ -87,7 +87,7 @@ const TelegramChatBot = () => {
           <i className="fas fa-robot"></i>
         </div>
         <div className="chat-info">
-          <h3>AI Assistant</h3>
+          <h3>Wellbeing-AI-therapist</h3>
           <p>Online</p>
         </div>
       </div>
